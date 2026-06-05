@@ -1,5 +1,18 @@
 [
   {
+    "id": "air-quality-detector",
+    "title": "Deteksi Kualitas Udara",
+    "description": "Anda ingin mencari tempat dengan udara segar untuk sekedar mancing, piknik, joging, atau bahkan bersenda gurau di udara terbuka?",
+    "category": "useful",
+    "icon": "wind",
+    "color": "from-blue-500 to-indigo-600",
+    "version": "1.0",
+    "author": "",
+    "tags": [],
+    "price": 0,
+    "contentUrl": "https://raw.githubusercontent.com/djbachoxs/BCXApps/main/apps/Air%20Quality%20Detector.html"
+  },
+  {
     "id": "_contoh-app",
     "title": "Kalkulator Contoh",
     "description": "Contoh file app — hapus dan ganti dengan app kamu.",
