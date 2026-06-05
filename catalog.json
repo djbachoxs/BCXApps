@@ -13,6 +13,19 @@
     "contentUrl": "https://raw.githubusercontent.com/djbachoxs/BCXApps/main/apps/Air%20Quality%20Detector.html"
   },
   {
+    "id": "qouinv",
+    "title": "Quoinv",
+    "description": "Butuh membuat Quotation atau Invoice secepat kilat? pakai aplikasi ini, niscaya bisnis lancar",
+    "category": "system",
+    "icon": "file-user",
+    "color": "from-slate-500 to-gray-700",
+    "version": "1.0",
+    "author": "",
+    "tags": [],
+    "price": 0,
+    "contentUrl": "https://raw.githubusercontent.com/djbachoxs/BCXApps/main/apps/Qouinv.html"
+  },
+  {
     "id": "_contoh-app",
     "title": "Kalkulator Contoh",
     "description": "Contoh file app — hapus dan ganti dengan app kamu.",
