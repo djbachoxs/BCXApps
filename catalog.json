@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "_contoh-app",
+    "title": "Kalkulator Contoh",
+    "description": "Contoh file app — hapus dan ganti dengan app kamu.",
+    "category": "useful",
+    "icon": "calculator",
+    "color": "from-blue-500 to-indigo-600",
+    "version": "1.0",
+    "author": "BCX",
+    "tags": [
+      "contoh"
+    ],
+    "price": 0,
+    "contentUrl": "https://raw.githubusercontent.com/djbachoxs/BCXApps/main/apps/_contoh-app.html"
+  }
+]
